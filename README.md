@@ -12,7 +12,7 @@ Feel free to use this template and adjust it to your needs & liking.<br>
 
 ## Live Demo
 
-👉 **https://pavel242242-digital-resume-template-streamlit-app-lsa3k2.streamlit.app/**
+👉 **https://chocho.streamlit.app/**
 
 ## Screenshots
 
